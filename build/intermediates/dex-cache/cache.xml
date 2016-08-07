@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_a4ee4fef0f117cbbd9eeabcd051dbd7efd10b28d/classes.dex" />
+    </item>
+    <item
+        jar="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_3f799b43000cea34bd0b2184acc8905041a5eaae/classes.dex" />
+    </item>
+    <item
+        jar="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_c0250e0b2d1bd2c929475c999f6a01248c78a341/classes.dex" />
+    </item>
+    <item
+        jar="/home/neto/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_640e29d11a9c90d89a9b2c59ad60f8ed338ed601/classes.dex" />
+    </item>
+    <item
+        jar="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_14abc6a117209e80eda97fd57d35a5ee0e64c3a8/classes.dex" />
+    </item>
+    <item
+        jar="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_ec5cb8bc8d5a9e3f2918e6f1dfed37d241ff1a10/classes.dex" />
+    </item>
+    <item
+        jar="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="497911211455bef97e378b908eb0ae9e478f7fcb">
+        <dex dex="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8491161c1925d4ad9b11413c00cc0b4ed2ec5ad8/classes.dex" />
+    </item>
+    <item
+        jar="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="08ccc58aa47f2b03c67c3a587b5ca5483e7f9e04">
+        <dex dex="/home/neto/AndroidStudioProjects/Roteiro1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3d2e89f90c26d52fc8b1cf1b1f9460fa2ea4eb37/classes.dex" />
+    </item>
+
+</items>
